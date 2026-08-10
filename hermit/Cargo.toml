@@ -60,6 +60,7 @@ log-release_max_level_trace = []
 #!
 #! [docs]: https://hermit-os.github.io/kernel
 
+kvmclock = []
 mman = []
 newlib = []
 uhyve = []
