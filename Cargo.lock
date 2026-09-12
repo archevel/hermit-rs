@@ -1555,6 +1555,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "mman-vsock-repro"
+version = "0.1.0"
+dependencies = [
+ "hermit",
+ "hermit-abi 0.5.3",
+]
+
+[[package]]
 name = "multithreaded_benchmark"
 version = "0.0.0"
 dependencies = [
